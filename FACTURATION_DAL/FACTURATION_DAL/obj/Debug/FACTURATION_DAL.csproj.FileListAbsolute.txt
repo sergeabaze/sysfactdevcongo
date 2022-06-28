@@ -1,0 +1,151 @@
+D:\Newproject\SYSFACT\release\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll.config
+D:\Newproject\SYSFACT\release\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll
+D:\Newproject\SYSFACT\release\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.pdb
+D:\Newproject\SYSFACT\release\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.dll
+D:\Newproject\SYSFACT\release\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.Entity.dll
+D:\Newproject\SYSFACT\release\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Newproject\SYSFACT\release\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.dll
+D:\Newproject\SYSFACT\release\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.pdb
+C:\Users\Abaze serge\Documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll.config
+C:\Users\Abaze serge\Documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll
+C:\Users\Abaze serge\Documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.pdb
+C:\Users\Abaze serge\Documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.dll
+C:\Users\Abaze serge\Documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.Entity.dll
+C:\Users\Abaze serge\Documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Abaze serge\Documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.dll
+C:\Users\Abaze serge\Documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.pdb
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll.config
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.pdb
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.Entity.dll
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.dll
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.pdb
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\INSTALL_SYSFACT\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll.config
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\INSTALL_SYSFACT\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\INSTALL_SYSFACT\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.pdb
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\INSTALL_SYSFACT\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\INSTALL_SYSFACT\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.Entity.dll
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\INSTALL_SYSFACT\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\INSTALL_SYSFACT\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.dll
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\INSTALL_SYSFACT\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.pdb
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll.config
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.pdb
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.Entity.dll
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.dll
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.pdb
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll.config
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.pdb
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.Entity.dll
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.dll
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.pdb
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll.config
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.pdb
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.Entity.dll
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.dll
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.pdb
+D:\Newproject\SYSFACT\Last release\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll.config
+D:\Newproject\SYSFACT\Last release\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll
+D:\Newproject\SYSFACT\Last release\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.pdb
+D:\Newproject\SYSFACT\Last release\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.dll
+D:\Newproject\SYSFACT\Last release\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.Entity.dll
+D:\Newproject\SYSFACT\Last release\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Newproject\SYSFACT\Last release\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.dll
+D:\Newproject\SYSFACT\Last release\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.pdb
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll.config
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.pdb
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.Entity.dll
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.dll
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\NEW_INSTALL_SYSFACT\NEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.pdb
+D:\Newproject\SYSFACT\Last release\RENEW_INSTALL_SYSFACT\RENEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll.config
+D:\Newproject\SYSFACT\Last release\RENEW_INSTALL_SYSFACT\RENEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll
+D:\Newproject\SYSFACT\Last release\RENEW_INSTALL_SYSFACT\RENEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.pdb
+D:\Newproject\SYSFACT\Last release\RENEW_INSTALL_SYSFACT\RENEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.dll
+D:\Newproject\SYSFACT\Last release\RENEW_INSTALL_SYSFACT\RENEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.Entity.dll
+D:\Newproject\SYSFACT\Last release\RENEW_INSTALL_SYSFACT\RENEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Newproject\SYSFACT\Last release\RENEW_INSTALL_SYSFACT\RENEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.dll
+D:\Newproject\SYSFACT\Last release\RENEW_INSTALL_SYSFACT\RENEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.pdb
+D:\Newproject\SYSFACT\RENEW_INSTALL_SYSFACT\RENEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll.config
+D:\Newproject\SYSFACT\RENEW_INSTALL_SYSFACT\RENEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll
+D:\Newproject\SYSFACT\RENEW_INSTALL_SYSFACT\RENEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.pdb
+D:\Newproject\SYSFACT\RENEW_INSTALL_SYSFACT\RENEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.dll
+D:\Newproject\SYSFACT\RENEW_INSTALL_SYSFACT\RENEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.Entity.dll
+D:\Newproject\SYSFACT\RENEW_INSTALL_SYSFACT\RENEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Newproject\SYSFACT\RENEW_INSTALL_SYSFACT\RENEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.dll
+D:\Newproject\SYSFACT\RENEW_INSTALL_SYSFACT\RENEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.pdb
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\RENEW_INSTALL_SYSFACT\RENEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll.config
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\RENEW_INSTALL_SYSFACT\RENEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\RENEW_INSTALL_SYSFACT\RENEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.pdb
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\RENEW_INSTALL_SYSFACT\RENEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\RENEW_INSTALL_SYSFACT\RENEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.Entity.dll
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\RENEW_INSTALL_SYSFACT\RENEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\RENEW_INSTALL_SYSFACT\RENEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.dll
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\RENEW_INSTALL_SYSFACT\RENEW_INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.pdb
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll.config
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.pdb
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.Entity.dll
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.dll
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.pdb
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll.config
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.pdb
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.Entity.dll
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.dll
+C:\Documents and Settings\serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.pdb
+D:\Newproject\SYSFACT\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll.config
+D:\Newproject\SYSFACT\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll
+D:\Newproject\SYSFACT\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.pdb
+D:\Newproject\SYSFACT\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.dll
+D:\Newproject\SYSFACT\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.Entity.dll
+D:\Newproject\SYSFACT\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Newproject\SYSFACT\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.dll
+D:\Newproject\SYSFACT\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.pdb
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll.config
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.pdb
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.dll
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.Entity.dll
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.dll
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.pdb
+D:\Newproject\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll.config
+D:\Newproject\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll
+D:\Newproject\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.pdb
+D:\Newproject\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.dll
+D:\Newproject\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Newproject\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.dll
+D:\Newproject\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.pdb
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll.config
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.pdb
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.dll
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.Entity.dll
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.dll
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.pdb
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\Lastest\SYSFACT_V1Compta\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll.config
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\Lastest\SYSFACT_V1Compta\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.dll
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\Lastest\SYSFACT_V1Compta\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\FACTURATION_DAL.pdb
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\Lastest\SYSFACT_V1Compta\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.dll
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\Lastest\SYSFACT_V1Compta\FACTURATION_DAL\FACTURATION_DAL\bin\Debug\MySql.Data.Entity.dll
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\Lastest\SYSFACT_V1Compta\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\Lastest\SYSFACT_V1Compta\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.dll
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\Lastest\SYSFACT_V1Compta\FACTURATION_DAL\FACTURATION_DAL\obj\Debug\FACTURATION_DAL.pdb

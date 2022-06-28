@@ -1,0 +1,152 @@
+D:\Newproject\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe.config
+D:\Newproject\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe
+D:\Newproject\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.pdb
+D:\Newproject\FACTURATION_DAL\TesteApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Newproject\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.exe
+D:\Newproject\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.pdb
+D:\Newproject\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.dll
+D:\Newproject\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.pdb
+D:\Projects\personnal\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe.config
+D:\Projects\personnal\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.exe
+D:\Projects\personnal\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.pdb
+D:\Projects\personnal\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe
+D:\Projects\personnal\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.pdb
+D:\Projects\personnal\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.dll
+D:\Projects\personnal\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.pdb
+D:\Projects\personnal\FACTURATION_DAL\TesteApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Outils\full\SOFT_SPOOL\SYSFACT\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe.config
+D:\Outils\full\SOFT_SPOOL\SYSFACT\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.exe
+D:\Outils\full\SOFT_SPOOL\SYSFACT\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.pdb
+D:\Outils\full\SOFT_SPOOL\SYSFACT\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe
+D:\Outils\full\SOFT_SPOOL\SYSFACT\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.pdb
+D:\Outils\full\SOFT_SPOOL\SYSFACT\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.dll
+D:\Outils\full\SOFT_SPOOL\SYSFACT\FACTURATION_DAL\TesteApplication\bin\Debug\MySql.Data.dll
+D:\Outils\full\SOFT_SPOOL\SYSFACT\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.pdb
+D:\Outils\full\SOFT_SPOOL\SYSFACT\FACTURATION_DAL\TesteApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\personnal\SYSFACT\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe.config
+D:\Projects\personnal\SYSFACT\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.exe
+D:\Projects\personnal\SYSFACT\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.pdb
+D:\Projects\personnal\SYSFACT\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe
+D:\Projects\personnal\SYSFACT\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.pdb
+D:\Projects\personnal\SYSFACT\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.dll
+D:\Projects\personnal\SYSFACT\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.pdb
+D:\Projects\personnal\SYSFACT\FACTURATION_DAL\TesteApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Newproject\SYSFACT\release\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe.config
+D:\Newproject\SYSFACT\release\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.exe
+D:\Newproject\SYSFACT\release\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.pdb
+D:\Newproject\SYSFACT\release\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe
+D:\Newproject\SYSFACT\release\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.pdb
+D:\Newproject\SYSFACT\release\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.dll
+D:\Newproject\SYSFACT\release\FACTURATION_DAL\TesteApplication\bin\Debug\MySql.Data.dll
+D:\Newproject\SYSFACT\release\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.pdb
+D:\Newproject\SYSFACT\release\FACTURATION_DAL\TesteApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe.config
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.exe
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.pdb
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1\FACTURATION_DAL\TesteApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.pdb
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.dll
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1\FACTURATION_DAL\TesteApplication\bin\Debug\MySql.Data.dll
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.pdb
+D:\Newproject\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe.config
+D:\Newproject\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.exe
+D:\Newproject\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.pdb
+D:\Newproject\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe
+D:\Newproject\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.pdb
+D:\Newproject\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.dll
+D:\Newproject\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\MySql.Data.dll
+D:\Newproject\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.pdb
+D:\Newproject\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe.config
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.pdb
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.dll
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\MySql.Data.dll
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.pdb
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.exe
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.pdb
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\Lastest\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe.config
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\Lastest\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\Lastest\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.pdb
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\Lastest\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.dll
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\Lastest\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\MySql.Data.dll
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\Lastest\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.pdb
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\Lastest\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\Lastest\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.exe
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\Lastest\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.pdb
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe.config
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.pdb
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.dll
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.pdb
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.exe
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.pdb
+D:\Newproject\SYSFACT\Sysfact V1\Release compta archive\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe.config
+D:\Newproject\SYSFACT\Sysfact V1\Release compta archive\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe
+D:\Newproject\SYSFACT\Sysfact V1\Release compta archive\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.pdb
+D:\Newproject\SYSFACT\Sysfact V1\Release compta archive\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.dll
+D:\Newproject\SYSFACT\Sysfact V1\Release compta archive\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\MySql.Data.dll
+D:\Newproject\SYSFACT\Sysfact V1\Release compta archive\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.pdb
+D:\Newproject\SYSFACT\Sysfact V1\Release compta archive\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Newproject\SYSFACT\Sysfact V1\Release compta archive\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.exe
+D:\Newproject\SYSFACT\Sysfact V1\Release compta archive\SYSFACT_V1Compta\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.pdb
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\New Archives\SYSFACT_V1_NEW _ARCHIVECompta\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe.config
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\New Archives\SYSFACT_V1_NEW _ARCHIVECompta\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\New Archives\SYSFACT_V1_NEW _ARCHIVECompta\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.pdb
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\New Archives\SYSFACT_V1_NEW _ARCHIVECompta\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.dll
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\New Archives\SYSFACT_V1_NEW _ARCHIVECompta\FACTURATION_DAL\TesteApplication\bin\Debug\MySql.Data.dll
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\New Archives\SYSFACT_V1_NEW _ARCHIVECompta\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.pdb
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\New Archives\SYSFACT_V1_NEW _ARCHIVECompta\FACTURATION_DAL\TesteApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\New Archives\SYSFACT_V1_NEW _ARCHIVECompta\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.exe
+D:\Autre Projets\personnal\SYSFACT\Sysfact V1\New Archives\SYSFACT_V1_NEW _ARCHIVECompta\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.pdb
+D:\Newproject\SYSFACT\Sysfact_Douala\New Archive\SYSFACT_DLA_ARCHIVE\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe.config
+D:\Newproject\SYSFACT\Sysfact_Douala\New Archive\SYSFACT_DLA_ARCHIVE\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe
+D:\Newproject\SYSFACT\Sysfact_Douala\New Archive\SYSFACT_DLA_ARCHIVE\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.pdb
+D:\Newproject\SYSFACT\Sysfact_Douala\New Archive\SYSFACT_DLA_ARCHIVE\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.dll
+D:\Newproject\SYSFACT\Sysfact_Douala\New Archive\SYSFACT_DLA_ARCHIVE\FACTURATION_DAL\TesteApplication\bin\Debug\MySql.Data.dll
+D:\Newproject\SYSFACT\Sysfact_Douala\New Archive\SYSFACT_DLA_ARCHIVE\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.pdb
+D:\Newproject\SYSFACT\Sysfact_Douala\New Archive\SYSFACT_DLA_ARCHIVE\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.exe
+D:\Newproject\SYSFACT\Sysfact_Douala\New Archive\SYSFACT_DLA_ARCHIVE\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.pdb
+D:\Newproject\SYSFACT\Sysfact_Douala\New Archive\SYSFACT_DLA_ARCHIVE\FACTURATION_DAL\TesteApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Newproject\SYSFACT\Sysfact_Douala\Archive Prod\SYSFACT_DLA_ARCHIVE\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe.config
+D:\Newproject\SYSFACT\Sysfact_Douala\Archive Prod\SYSFACT_DLA_ARCHIVE\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe
+D:\Newproject\SYSFACT\Sysfact_Douala\Archive Prod\SYSFACT_DLA_ARCHIVE\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.pdb
+D:\Newproject\SYSFACT\Sysfact_Douala\Archive Prod\SYSFACT_DLA_ARCHIVE\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.dll
+D:\Newproject\SYSFACT\Sysfact_Douala\Archive Prod\SYSFACT_DLA_ARCHIVE\FACTURATION_DAL\TesteApplication\bin\Debug\MySql.Data.dll
+D:\Newproject\SYSFACT\Sysfact_Douala\Archive Prod\SYSFACT_DLA_ARCHIVE\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.pdb
+D:\Newproject\SYSFACT\Sysfact_Douala\Archive Prod\SYSFACT_DLA_ARCHIVE\FACTURATION_DAL\TesteApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Newproject\SYSFACT\Sysfact_Douala\Archive Prod\SYSFACT_DLA_ARCHIVE\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.exe
+D:\Newproject\SYSFACT\Sysfact_Douala\Archive Prod\SYSFACT_DLA_ARCHIVE\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.pdb
+D:\Newproject\SYSFACT\sysfact_congo\SYSFACT_NEW_CONGO\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe.config
+D:\Newproject\SYSFACT\sysfact_congo\SYSFACT_NEW_CONGO\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe
+D:\Newproject\SYSFACT\sysfact_congo\SYSFACT_NEW_CONGO\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.pdb
+D:\Newproject\SYSFACT\sysfact_congo\SYSFACT_NEW_CONGO\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.dll
+D:\Newproject\SYSFACT\sysfact_congo\SYSFACT_NEW_CONGO\FACTURATION_DAL\TesteApplication\bin\Debug\MySql.Data.dll
+D:\Newproject\SYSFACT\sysfact_congo\SYSFACT_NEW_CONGO\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.pdb
+D:\Newproject\SYSFACT\sysfact_congo\SYSFACT_NEW_CONGO\FACTURATION_DAL\TesteApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Newproject\SYSFACT\sysfact_congo\SYSFACT_NEW_CONGO\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.exe
+D:\Newproject\SYSFACT\sysfact_congo\SYSFACT_NEW_CONGO\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.pdb
+D:\Autre Projets\personnal\SYSFACT\sysfact_congo\SYSFACT_NEW_CONGO\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe.config
+D:\Autre Projets\personnal\SYSFACT\sysfact_congo\SYSFACT_NEW_CONGO\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe
+D:\Autre Projets\personnal\SYSFACT\sysfact_congo\SYSFACT_NEW_CONGO\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.pdb
+D:\Autre Projets\personnal\SYSFACT\sysfact_congo\SYSFACT_NEW_CONGO\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.dll
+D:\Autre Projets\personnal\SYSFACT\sysfact_congo\SYSFACT_NEW_CONGO\FACTURATION_DAL\TesteApplication\bin\Debug\MySql.Data.dll
+D:\Autre Projets\personnal\SYSFACT\sysfact_congo\SYSFACT_NEW_CONGO\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.pdb
+D:\Autre Projets\personnal\SYSFACT\sysfact_congo\SYSFACT_NEW_CONGO\FACTURATION_DAL\TesteApplication\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Autre Projets\personnal\SYSFACT\sysfact_congo\SYSFACT_NEW_CONGO\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.exe
+D:\Autre Projets\personnal\SYSFACT\sysfact_congo\SYSFACT_NEW_CONGO\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.pdb
+E:\Application\SYSFACT DLA\sysfact_congo\SYSFACT_NEW_CONGOold\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe.config
+E:\Application\SYSFACT DLA\sysfact_congo\SYSFACT_NEW_CONGOold\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.exe
+E:\Application\SYSFACT DLA\sysfact_congo\SYSFACT_NEW_CONGOold\FACTURATION_DAL\TesteApplication\bin\Debug\TesteApplication.pdb
+E:\Application\SYSFACT DLA\sysfact_congo\SYSFACT_NEW_CONGOold\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.dll
+E:\Application\SYSFACT DLA\sysfact_congo\SYSFACT_NEW_CONGOold\FACTURATION_DAL\TesteApplication\bin\Debug\MySql.Data.dll
+E:\Application\SYSFACT DLA\sysfact_congo\SYSFACT_NEW_CONGOold\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.pdb
+E:\Application\SYSFACT DLA\sysfact_congo\SYSFACT_NEW_CONGOold\FACTURATION_DAL\TesteApplication\bin\Debug\FACTURATION_DAL.dll.config
+E:\Application\SYSFACT DLA\sysfact_congo\SYSFACT_NEW_CONGOold\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.csprojResolveAssemblyReference.cache
+E:\Application\SYSFACT DLA\sysfact_congo\SYSFACT_NEW_CONGOold\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.csproj.CoreCompileInputs.cache
+E:\Application\SYSFACT DLA\sysfact_congo\SYSFACT_NEW_CONGOold\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.exe
+E:\Application\SYSFACT DLA\sysfact_congo\SYSFACT_NEW_CONGOold\FACTURATION_DAL\TesteApplication\obj\x86\Debug\TesteApplication.pdb

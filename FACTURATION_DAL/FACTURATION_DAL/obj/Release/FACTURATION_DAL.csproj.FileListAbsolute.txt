@@ -1,0 +1,8 @@
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Release\FACTURATION_DAL.dll.config
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Release\FACTURATION_DAL.dll
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Release\FACTURATION_DAL.pdb
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Release\MySql.Data.dll
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\bin\Release\MySql.Data.Entity.dll
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Release\FACTURATION_DAL.dll
+C:\Documents and Settings\abaze serge\Mes documents\Visual Studio 2010\Projects\INSTALL_SYSFACT\INSTALL_SYSFACT\FACTURATION_DAL\FACTURATION_DAL\obj\Release\FACTURATION_DAL.pdb
